@@ -2,13 +2,14 @@
 // @name         Collab Helper
 // @namespace    https://github.com/AseevGerman/collabHelper
 // @homepageURL  https://github.com/AseevGerman/collabHelper
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
-// @author       Aseev German
+// @author       You
 // @match        https://collab.sms-it.ru/ui
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sms-it.ru
 // @grant        none
-// @downloadURL  https://github.com/AseevGerman/collabHelper/blob/main/collabHelper.js
+// @updateURL    https://raw.githubusercontent.com/AseevGerman/collabHelper/main/collabHelper.js
+// @downloadURL  https://raw.githubusercontent.com/AseevGerman/collabHelper/main/collabHelper.js
 // ==/UserScript==
 
 (function() {
