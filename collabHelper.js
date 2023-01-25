@@ -2,7 +2,7 @@
 // @name         Collab Helper
 // @namespace    https://github.com/AseevGerman/collabHelper
 // @homepageURL  https://github.com/AseevGerman/collabHelper
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://collab.sms-it.ru/ui
