@@ -8,6 +8,7 @@
 // @match        https://collab.sms-it.ru/ui
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sms-it.ru
 // @grant        none
+// @downloadURL  https://github.com/AseevGerman/collabHelper/blob/main/collabHelper.js
 // ==/UserScript==
 
 (function() {
